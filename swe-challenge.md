@@ -3,26 +3,18 @@
 
 ## Heating Control
 
-
 For this task, you will need to prototype a simple heating control service.
 
+Imagine that you have a single room with a few temperature sensors installed there and a radiator valve you can control.
 
-Imagine that you have a single room where you can control a radiator valve and a few temperature sensors installed there.
+Your task is to keep the room temperature at 22C by setting the valve openness from 0 (fully closed) to 100 (fully open). The current room temperature is indicated by sensor readings.
 
-
-The temperature sensors send the readings periodically to the mqtt topic.
-
-
-Your task is to keep the room temperature at 22C (as indicated by sensor readings) by setting the valve from 0 (fully closed) to 100 (fully open).
-
-
-You should set the valve by sending a specific message to a specific mqtt topic.
+The temperature sensors send the readings periodically to the mqtt topic. You can set the valve openness by sending a specific message to a specific mqtt topic.
 
 
 ### Input
 
-
-You will use the periodic temperature readings on the topic `/readings/temperature` in the json format:
+You get the periodic temperature readings on the topic `/readings/temperature` in the json format:
 
 
 ```json
@@ -33,15 +25,12 @@ You will use the periodic temperature readings on the topic `/readings/temperatu
 }
 ```
 
-
 Receiving this message should indicate that Sensor 1 reads 25.3C for the area of the room where it has been installed.
 
 
 ### Output
 
-
-You will need to send the valve value to the topic `/actuators/room-1` in the json format:
-
+You will need to send the valve openness value to the topic `/actuators/room-1` in the json format:
 
 ```json
 {
@@ -49,26 +38,22 @@ You will need to send the valve value to the topic `/actuators/room-1` in the js
 }
 ```
 
-
 Sending the message indicates that the valve should be set to 14% openness.
 
 
 ### Hints
 
-
 - You're free to use any language and any libraries. Think about the best fit for solving the task. As we use `go` for such problems, we'd be pleased if you used `go` if you are familiar with it. Remember that the next step would be a pair programming session with one of our engineers, so you need to be comfortable with the language you've choosen.
-
 
 - The fastest way to get mqtt broker is to run mosquitto with docker:
     ```
     docker run -it -p 1883:1883 --name=mosquitto  toke/mosquitto
     ```
     
-- Don't use fancy algorithms for temperature control; opt for something simple. If you want, you can describe a more complex solution in the README.
+- You don't need to use fancy algorithms for temperature control; opt for something simple. If you want, you can describe a more complex solution in the README.
 
 
 ### Too easy?
-
 
 If you finished the task quickly and feel like doing more (that's completely optional):
 - You can imagine that there's also a motion sensor and you want to keep the room warm only when motion is present.

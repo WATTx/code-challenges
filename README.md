@@ -47,6 +47,7 @@ Is it aligned with the community-accepted way of solving similar problems?
 ## Links To Specific Challenges
 
 - [Software Engineer Challenge (Distributed Systems)](/swe-challenge.md)
+- [Frontend Engineer Challenge](/frontend-engineer-challenge.md)
 
 
 ## Credits

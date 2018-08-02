@@ -13,10 +13,7 @@ The Challenge creates a foundation for further onsite collaboration during your 
 
 #### Time
 
-We respect your time and don't want you spending more 3 hours on your challenge. The challenges are scoped for ~1-2hr timeframe.
-We just want to get a sense of your thought process and the way you do the work.
-If there are features you don't have time to implement, feel free to describe the intended approach to implementation in the README.
-
+We respect your time and the challenge is designed in such a way as not to take more than 4-6 hours. We just want to get a sense of your thought process and the way you do the work. If there are features you don't have time to implement, feel free to describe the intended approach to implementation in the README.
 
 #### Your Challenge README
 

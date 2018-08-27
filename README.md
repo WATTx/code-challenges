@@ -46,10 +46,10 @@ Is it aligned with the community-accepted way of solving similar problems?
 You're free to pick any challenge from the below list:
 
 - Software Engineer Challenges:
-  - [Top Coins](/software-engineer-challenge-crypto.md)
-  - [Heating Control](/swe-challenge.md)
+  - [Top Coins](/software-engineer-challenge-top-coins.md)
+  - [Heating Control](/software-engineer-challenge-heating-control.md)
 - Frontend Engineer Challenges:
-  - [Top Coins](/frontend-engineer-challenge.md)
+  - [Top Coins](/frontend-engineer-challenge-top-coins.md)
 
 
 ## Credits

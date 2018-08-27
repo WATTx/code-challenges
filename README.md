@@ -43,8 +43,13 @@ Is it aligned with the community-accepted way of solving similar problems?
 
 ## Links To Specific Challenges
 
-- [Software Engineer Challenge (Distributed Systems)](/swe-challenge.md)
-- [Frontend Engineer Challenge](/frontend-engineer-challenge.md)
+You're free to pick any challenge from the below list:
+
+- Software Engineer Challenges:
+  - [Top Coins](/software-engineer-challenge-crypto.md)
+  - [Heating Control](/swe-challenge.md)
+- Frontend Engineer Challenges:
+  - [Top Coins](/frontend-engineer-challenge.md)
 
 
 ## Credits

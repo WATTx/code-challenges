@@ -43,14 +43,16 @@ Is it aligned with the community-accepted way of solving similar problems?
 
 ## Links To Specific Challenges
 
+### *Backend Engineer* Challenges:
+
 Pick one challenge from the list below. You are free to pick any one.
 
-- Software Engineer Challenges:
-  - [Top Coins](/software-engineer-challenge-top-coins.md)
-  - [Heating Control](/software-engineer-challenge-heating-control.md)
-- Frontend Engineer Challenges:
-  - [Top Coins](/frontend-engineer-challenge-top-coins.md)
+- [Top Coins](/software-engineer-challenge-top-coins.md)
+- [Heating Control](/software-engineer-challenge-heating-control.md)
 
+### *Frontend Engineer* Challenge:
+
+- [Top Coins](/frontend-engineer-challenge-top-coins.md)
 
 ## Credits
 

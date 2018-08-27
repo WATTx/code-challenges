@@ -1,6 +1,6 @@
-# WATTx Software Engineer Challenge
+# WATTx Software Engineer Challenge: **Top Coins**
 
-## Crypto Assets: Top Coins Price List
+### Overview
 
 For this task, you will prototype a price list service for top crypto assets.
 

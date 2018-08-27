@@ -1,7 +1,6 @@
-# WATTx Software Engineer Challenge
+# WATTx Software Engineer Challenge: **Heating Control**
 
-
-## Heating Control
+### Overview
 
 For this task, you will need to prototype a simple heating control service.
 

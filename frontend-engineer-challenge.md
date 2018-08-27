@@ -1,4 +1,4 @@
-# WATTx Front-End Engineer Challenge
+# WATTx Front-End Engineer Challenge: **Top Coins**
 
 ### Overview
 

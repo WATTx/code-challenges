@@ -43,7 +43,7 @@ Is it aligned with the community-accepted way of solving similar problems?
 
 ## Links To Specific Challenges
 
-You're free to pick any challenge from the below list:
+Pick one challenge from the list below. You are free to pick any one.
 
 - Software Engineer Challenges:
   - [Top Coins](/software-engineer-challenge-top-coins.md)

@@ -4,12 +4,10 @@ The WATTx Code Challenge is an opportunity to demonstrate proficiency with probl
 
 The Challenge creates a foundation for further onsite collaboration during your interview. Additionally, we want you to get a feel for some of the most common tasks you'll encounter at WATTx.
 
-
 ## How to complete a Challenge
 
 * Select a challenge and create a new git repository for that project.
 * Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your WATTx contact.
-
 
 #### Time
 
@@ -24,11 +22,9 @@ Include the following in your README:
 * The reasoning behind your technical choices: trade-offs you might have made, anything you left out, or what you might do differently if you had additional time.
 * What you'd do next and why.
 
-
 #### Commit History
 
 Use whatever development workflow works best for you. If your solution is small enough and a single commit is justified, that's fine; we just ask that you keep your [commit history as clean as possible](https://www.reviewboard.org/docs/codebase/dev/git/clean-commits/).
-
 
 ## What We Care About
 
@@ -40,7 +36,6 @@ Reviewing the application we'll look at the following aspects:
 Is it aligned with the community-accepted way of solving similar problems?
 * **Testing:** If required, what testing approach was taken? Will the tests be difficult to change if the requirements of the application changed?
 * **Technical Choices:** Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?
-
 
 ## Links To Specific Challenges
 

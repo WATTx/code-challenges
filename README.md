@@ -36,7 +36,7 @@ Reviewing the application we'll look at the following aspects:
 
 * **Clarity:** Does the README clearly explain the problem and solution?
 * **Correctness:** Does the submission accomplish what was asked? If there is anything missing, does the README explain why it is missing?
-* **Code Quality:** Is the code simple, easy to understand, and maintainable?
+* **Simplicity:** Is the code simple, easy to understand, and maintainable?
 Is it aligned with the community-accepted way of solving similar problems?
 * **Testing:** If required, what testing approach was taken? Will the tests be difficult to change if the requirements of the application changed?
 * **Technical Choices:** Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?

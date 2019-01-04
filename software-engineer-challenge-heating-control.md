@@ -43,12 +43,11 @@ Sending the message indicates that the valve should be set to 14% openness.
 ### Hints
 
 - You're free to use any language and any libraries. Think about the best fit for solving the task. As we use `go` for such problems, we'd be pleased if you used `go` if you are familiar with it. Remember that the next step would be a pair programming session with one of our engineers, so you need to be comfortable with the language you've choosen.
-
+  - That being said, we strongly recommend that you don't use any application frameworks. We want to clearly see and understand your own style and intentions without being influenced by any conventions imposed by a framework.
 - The fastest way to get mqtt broker is to run mosquitto with docker:
     ```
     docker run -it -p 1883:1883 --name=mosquitto  toke/mosquitto
     ```
-    
 - You don't need to use fancy algorithms for temperature control; opt for something simple. If you want, you can describe a more complex solution in the README.
 
 

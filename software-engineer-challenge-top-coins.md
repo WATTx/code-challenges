@@ -50,4 +50,5 @@ You're free to pick any pattern for inter-service communication. We ask you to e
 ### Hints
 
 - You're free to use any language and any libraries. Think about the best fit for solving the task. Remember that the next step would be a pair programming session with one of our engineers, so you need to be comfortable with the language you've choosen. At WATTx we're pretty agnostic but are using mostly `Go` and `Python`.
+  - That being said, we strongly recommend that you don't use any application frameworks. We want to clearly see and understand your own style and intentions without being influenced by any conventions imposed by a framework.
 - We recommend you use `docker` and `docker-compose` for orchestrating your solution.

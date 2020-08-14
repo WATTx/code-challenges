@@ -39,7 +39,7 @@ Is it aligned with the community-accepted way of solving similar problems?
 
 ## Links To Specific Challenges
 
-### *Backend Engineer* Challenges:
+### *Golang Backend Engineer* Challenges:
 
 Pick one challenge from the list below. You are free to pick any one.
 

@@ -7,9 +7,12 @@ Create a webapp that allows for a simple analysis of crypto assets. The page sho
 * `/` - Market overview
 * `/liquidity` - Liquidity analysis page
 
-The app should fetch all the required data from the [coinmarketcap.com](https://coinmarketcap.com/api/) `/ticker` API endpoint.
+The app should fetch all the required data from a publicly available API.
+* API: [coinmarketcap.com](https://coinmarketcap.com/api/) 
+* API endpoint: `/cryptocurrency/listings/latest`
+* *Hint: CORS problems? Try with a proxy.*
 
-By default `/ticker` endpoint returns top 100 coins. There should be an option to change it by using a select/dropdown with predefined values:
+By default `/cryptocurrency/listings/latest` endpoint returns top 100 coins. There should be an option to change it by using a select/dropdown with predefined values:
 
 * `10`
 * `50`

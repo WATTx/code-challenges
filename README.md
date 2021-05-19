@@ -1,13 +1,13 @@
-# WATTx Code Challenges
+# wattx Code Challenges
 
-The WATTx Code Challenge is an opportunity to demonstrate proficiency with problem solving and collaboration skills we would expect you to use at WATTx.
+The WATTx Code Challenge is an opportunity to demonstrate proficiency with problem solving and collaboration skills we would expect you to use at wattx.
 
-The Challenge creates a foundation for further onsite collaboration during your interview. Additionally, we want you to get a feel for some of the most common tasks you'll encounter at WATTx.
+The Challenge creates a foundation for further onsite collaboration during your interview. Additionally, we want you to get a feel for some of the most common tasks you'll encounter at wattx.
 
 ## How to complete a Challenge
 
 * Select a challenge and create a new git repository for that project.
-* Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your WATTx contact.
+* Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your wattx contact.
 
 #### Time
 

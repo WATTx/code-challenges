@@ -6,8 +6,8 @@ The Challenge creates a foundation for further onsite collaboration during your 
 
 ## How to complete a Challenge
 
-* Select a challenge and create a new git repository for that project.
-* Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your wattx contact.
+- Select a challenge and create a new git repository for that project.
+- Organize your work within that repository. When you get to a stopping point, archive the repository (or publish it, if you prefer) and send it to your wattx contact.
 
 #### Time
 
@@ -17,10 +17,10 @@ We respect your time and the challenge is designed in such a way as not to take 
 
 Include the following in your README:
 
-* A comprehensive description of how to run your solution. Assume that a person who will check your code has to install all the required dependencies and toolkits. Even better, use Docker and docker-compose to package your solution.
-* A description of the problem and solution.
-* The reasoning behind your technical choices: trade-offs you might have made, anything you left out, or what you might do differently if you had additional time.
-* What you'd do next and why.
+- A comprehensive description of how to run your solution. Assume that a person who will check your code has to install all the required dependencies and toolkits. Even better, use Docker and docker-compose to package your solution.
+- A description of the problem and solution.
+- The reasoning behind your technical choices: trade-offs you might have made, anything you left out, or what you might do differently if you had additional time.
+- What you'd do next and why.
 
 #### Commit History
 
@@ -30,25 +30,26 @@ Use whatever development workflow works best for you. If your solution is small 
 
 Reviewing the application we'll look at the following aspects:
 
-* **Clarity:** Does the README clearly explain the problem and solution?
-* **Correctness:** Does the submission accomplish what was asked? If there is anything missing, does the README explain why it is missing?
-* **Simplicity:** Is the code simple, easy to understand, and maintainable?
-Is it aligned with the community-accepted way of solving similar problems?
-* **Testing:** If required, what testing approach was taken? Will the tests be difficult to change if the requirements of the application changed?
-* **Technical Choices:** Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?
+- **Clarity:** Does the README clearly explain the problem and solution?
+- **Correctness:** Does the submission accomplish what was asked? If there is anything missing, does the README explain why it is missing?
+- **Simplicity:** Is the code simple, easy to understand, and maintainable?
+  Is it aligned with the community-accepted way of solving similar problems?
+- **Testing:** If required, what testing approach was taken? Will the tests be difficult to change if the requirements of the application changed?
+- **Technical Choices:** Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?
 
 ## Links To Specific Challenges
 
-### *Golang Backend Engineer* Challenges:
+### _Golang Backend Engineer_ Challenges:
 
 Pick one challenge from the list below. You are free to pick any one.
 
 - [Top Coins](/software-engineer-challenge-top-coins.md)
 - [Heating Control](/software-engineer-challenge-heating-control.md)
 
-### *Frontend Engineer* Challenge:
+### _Frontend Engineer_ Challenge:
 
-- [Top Coins](/frontend-engineer-challenge-top-coins.md)
+- [Top Coins (ReactJS)](/frontend-engineer-challenge-top-coins-react.md)
+- [Top Coins (Angular)](/frontend-engineer-challenge-top-coins.md)
 
 ## Credits
 

@@ -2,7 +2,7 @@
 
 ### Overview
 
-Create a webapp that allows for a simple analysis of crypto assets. The page should present a navigation bar with two pages:
+Create an Angular webapp that allows for a simple analysis of crypto assets. The page should present a navigation bar with two pages:
 
 * `/` - Market overview
 * `/liquidity` - Liquidity analysis page
@@ -65,8 +65,12 @@ Each point represents one coin.
 
 ### Architecture
 
+* Angular
 * For UI you can use any framework (Bootstrap, Semantic-UI, etc) or write your own CSS.
 * You're free to use any charts library. Think about the best fit for solving the task.
-* For state management you may use a state-management library such as `Redux` or use React's `setState()`.
+* For state management you may use:
+    * State-management library such as `NGRX` 
+    * Observable data services
+    * Hierarchical component interaction
 * Make sure it works in latest Chrome, Safari or Firefox
 * Webpage should be responsive.

@@ -39,7 +39,7 @@ Reviewing the application we'll look at the following aspects:
 
 ## Links To Specific Challenges
 
-### _Golang Backend Engineer_ Challenges:
+### _Python Backend Engineer_ Challenges:
 
 Pick one challenge from the list below. You are free to pick any one.
 

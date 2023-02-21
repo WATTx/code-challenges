@@ -1,4 +1,3 @@
-
 # WATTx Software Engineer Challenge: **Heating Control**
 
 Please Note: The challenge contains two parts:
@@ -53,9 +52,9 @@ Sending this message indicates that the valve should be set to 14% openness.
 - Use `docker` and `docker-compose` to orchestrate your solution
 - The fastest way to get mqtt broker is to run mosquitto with docker:
 
-    ```
-    docker run -it -p 1883:1883 --name=mosquitto  toke/mosquitto
-    ```
+  ```
+  docker run -it -p 1883:1883 --name=mosquitto  toke/mosquitto
+  ```
 
 - You don't need to use fancy algorithms for temperature control; opt for something simple. If you want, you can describe a more complex solution in the README.
 
@@ -66,7 +65,7 @@ We do not expect you to actually create an infrastructure or write any code but 
 
 Example topics that you might consider are:
 
-- What kind of 3rd party tools and provides would you use?
+- What kind of 3rd party tools and providers would you use?
 - How would you deploy and maintain such an infrastructure (assume there might be multiple deployments per day)?
 - What would you do to ensure that it is easy to deploy a copy of a system across multiple environments?
 - How would you ensure that the system is highly available?

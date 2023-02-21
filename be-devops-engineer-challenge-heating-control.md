@@ -61,4 +61,16 @@ Sending this message indicates that the valve should be set to 14% openness.
 
 ## 2. DevOps
 
-Please design a suitable infrastructure architecture for the system you developed.
+Imagine that you are working on a real-life heating control system that allows thousands o users to control their devices using a webapp and a mobile app. Please design a suitable infrastructure architecture for such a system.
+We do not expec you to actually create an infrastructure or write any code but rather a description, optionally with some simple diagrams. This will be the base for a conversation with one of our engineers. 
+Example topics that you might consider are:
+
+* What kind of 3rd party tools and provides would you use?
+* How would you deploy (assume there migh be multiple deployments / day) and maintain such infrastructure?
+* What would you do to ensure that it is easy to deploy a copy of a system across multiple environments?
+* How would you ensure that the system is highly available?
+* What kind of tools and techniues could be used to ensure that real-time high volume data communication is possible across the parts of the system itself as well as any 3rd party providers?
+* How would you design monitoring and failure recovery systems?
+* Any considerations about the network setup?
+* How would you handle performing recurring tasks such as automated builds, test runs etc.?
+

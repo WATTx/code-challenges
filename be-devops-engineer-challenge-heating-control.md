@@ -24,9 +24,7 @@ Please simulate a system that runs continuously over the cycle of a day.
 
 ### Input
 
-You get the periodic temperature readings from the different sensors on the topic `/readings/room-1/temperature` in following format:
-
-You get the periodic temperature readings on the topic `/readings/room-1/temperature` in the json format:
+You get the periodic temperature readings on the topic `/readings/room-1/temperature` in this json format:
 
 ```json
 {

@@ -16,7 +16,7 @@ For this task, imagine you are given **one room** that contains
 - **five** temperature sensors that are sending temperature values
 - **one** radiator that you can control dynamically
 
-The current room temperature is is indicated by the sensor readings that are sent periodically to an mqtt topic. You can adapt the valve openness of the radiator from 0 (fully closed) to 100 (fully opened) to control the heating power. If you want to lower the temperature you have to reduce the valve setting, if you want to raise it, you have to increase the valve value. Your goal is to achieve a cosy constant room temperature of **22°C**.
+The current room temperature is indicated by the sensor readings that are sent periodically to an mqtt topic. You can adapt the valve openness of the radiator from 0 (fully closed) to 100 (fully opened) to control the heating power. If you want to lower the temperature you have to reduce the valve setting, if you want to raise it, you have to increase the valve value. Your goal is to achieve a cosy constant room temperature of **22°C**.
 You need to set the valve openness by sending a message to an mqtt topic.
 
 Please simulate a system that runs continuously over the cycle of a day.

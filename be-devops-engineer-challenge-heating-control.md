@@ -1,4 +1,4 @@
-# WATTx Software Engineer Challenge: **Heating Control**
+# wattx Software Engineer Challenge: **Heating Control**
 
 Please Note: The challenge contains two parts:
 
@@ -60,7 +60,7 @@ Sending this message indicates that the valve should be set to 14% openness.
 
 ## 2. DevOps
 
-Imagine that you are working on a real-life heating control system that allows thousands of users to control their devices using a web application and a mobile application. Please design a suitable infrastructure architecture for such a system.
+Now imagine that the startup starts taking off and you node need to create a real-life heating control system that allows thousands of users to control their devices using a web application and a mobile application. Please design a suitable infrastructure architecture for such a system.
 We do not expect you to actually create an infrastructure or write any code but rather to provide us with a description, optionally with some simple diagrams. This will be the base for a conversation with one of our engineers.
 
 Example topics that you might consider are:

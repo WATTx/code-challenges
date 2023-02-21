@@ -39,12 +39,9 @@ Reviewing the application we'll look at the following aspects:
 
 ## Links To Specific Challenges
 
-### _Python Backend Engineer_ Challenges:
+### _Backend Engineer_ Challenge
 
-Pick one challenge from the list below. You are free to pick any one.
-
-- [Top Coins](/software-engineer-challenge-top-coins.md)
-- [Heating Control](/software-engineer-challenge-heating-control.md)
+- [Heating Control](/be-devops-engineer-challenge-heating-control.md)
 
 ### _Frontend Engineer_ Challenge:
 

@@ -1,18 +1,30 @@
 
 # WATTx Software Engineer Challenge: **Heating Control**
 
-### Overview
+Please Note: The challenge contains two parts:
 
-For this task, you will need to prototype a simple heating control service consisting of temperature sensors and radiator valves.
-You read temperature values from sensors and you can raise the temperature by opening the valve more and lower the temperature by closing it more.
+1. Implementation part
+2. DevOps part
 
-Imagine that you have a single room with a few temperature sensors installed there and one radiator valve you can control.
+## Intro
 
-Your task is to keep the room temperature at 22°C by setting the valve openness from 0 (fully closed) to 100 (fully open). The current room temperature is indicated by sensor readings.
+One of our customers – a German Mittelstand company in the heating industry – wants to launch a new startup. The goal of the startup is to improve energy efficiency in private households by providing a smart valve control. You are assigned with designing and implementing a first prototype for the backend for this task.
 
-The temperature sensors send the readings periodically to the mqtt topic. You can set the valve openness by sending a message to an mqtt topic.
+## 1. Implementation
+
+For this task, imagine you are given **one room** that contains
+
+- **five** temperature sensors that are sending temperature values
+- **one** radiator that you can control dynamically
+
+The current room temperature is is indicated by the sensor readings that are sent periodically to an mqtt topic. You can adapt the valve openness of the radiator from 0 (fully closed) to 100 (fully opened) to control the heating power. If you want to lower the temperature you have to reduce the valve setting, if you want to raise it, you have to increase the valve value. Your goal is to achieve a cosy constant room temperature of **22°C**.
+You need to set the valve openness by sending a message to an mqtt topic.
+
+Please simulate a system that runs continuously over the cycle of a day.
 
 ### Input
+
+You get the periodic temperature readings from the different sensors on the topic `/readings/room-1/temperature` in following format:
 
 You get the periodic temperature readings on the topic `/readings/room-1/temperature` in the json format:
 
@@ -36,7 +48,7 @@ You will need to send the valve openness value to the topic `/actuators/room-1` 
 }
 ```
 
-Sending the message indicates that the valve should be set to 14% openness.
+Sending this message indicates that the valve should be set to 14% openness.
 
 ### Hints
 
@@ -49,6 +61,6 @@ Sending the message indicates that the valve should be set to 14% openness.
 
 - You don't need to use fancy algorithms for temperature control; opt for something simple. If you want, you can describe a more complex solution in the README.
 
-### Questions
+## 2. DevOps
 
-tbd
+Please design a suitable infrastructure architecture for the system you developed.

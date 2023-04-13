@@ -11,7 +11,7 @@ The Challenge creates a foundation for further onsite collaboration during your 
 
 #### Time
 
-We respect your time and the challenge is designed in such a way as not to take more than 4 hours. We just want to get a sense of your thought process and the way you do the work. If there are features you don't have time to implement, feel free to describe the intended approach to implementation in the README.
+We respect your time and the challenge is designed in such a way as not to take more than 4 to 5 hours. We just want to get a sense of your thought process and the way you do the work. If there are features you don't have time to implement, feel free to describe the intended approach to implementation in the README.
 
 #### README
 
@@ -47,6 +47,7 @@ Reviewing the application we'll look at the following aspects:
 
 - [Top Coins (ReactJS)](/frontend-engineer-challenge-top-coins-react.md)
 - [Top Coins (Angular)](/frontend-engineer-challenge-top-coins.md)
+- [Climony (React-Native)](/climony/frontend-engineer-challenge-climony.md)
 
 ## Credits
 

@@ -41,7 +41,7 @@ With the link to this code challenge, you should have gotten a link the Figma de
   - Section 2: contains a card row
     - The card row need to be horizontally scrollable: The user can swipe left to scroll right and swipe right to scroll left.
     - Every card contains an image, a title and an icon.
-    - The user can press on the first card. The other cards should be disabled. Via pressing on the card, the user gets to a new screen, the category overview screen.
+    - The user can press on every card and should be directed to its respective category overview screen (2).
 - The screen contains a bottom navigation. Only "Verstehen" tab should be enabled and touchable.
 
 ---
